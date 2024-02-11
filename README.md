@@ -9,3 +9,11 @@
 
 - **_SQL_** <img src="./servidor-sql.png" width="24"/>
 
+
+
+
+
+#
+
+Visitor count
+![Visitor Count](https://profile-counter.glitch.me/Jonas01101111/count.svg)
