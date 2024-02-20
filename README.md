@@ -9,7 +9,7 @@
 
 - **_SQL_** <img src="./servidor-sql.png" width="24"/>
 
-- **_C#_** <img src="./truecexarp.png" width="24"/>
+- **_C#_** <img src="./truestcexarp.png" width="24"/>
 
 
 
